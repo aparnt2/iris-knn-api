@@ -55,3 +55,11 @@ Output
 {
     "prediction": "setosa"
 }
+
+## Screenshots
+
+### Swagger UI
+![Swagger](assets/swagger.png)
+
+### Prediction
+![Prediction](assets/prediction.png)
